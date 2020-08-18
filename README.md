@@ -44,7 +44,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatk16&show_icons=true&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatk16&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatk16&theme=vue-dark&hide=html&hide=css)
 
 [website]: https://akshatk16.github.com
 [twitter]: https://twitter.com/akssshat9

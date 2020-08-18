@@ -2,8 +2,7 @@
 <h3 align="center">I'm a Coder, Designer, Developer and a Student</h3>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=akshatk16.akshatk16)
-
-![Twitter Follow](https://img.shields.io/twitter/follow/akssshat9?color=%231DA1F2&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/akssshat9?color=1DA1F2&style=social)
 
 <!-- ## 🎓 I'm a Coder, Designer, Developer and a Student -->
 

@@ -41,8 +41,10 @@
 <br />
 
 ---
-<img align="left" alt="Akshat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshatk16&show_icons=true&hide_border=true" />
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatk16&show_icons=true&theme=vue-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatk16&theme=vue-dark)
 
 [website]: https://akshatk16.github.com
 [twitter]: https://twitter.com/akssshat9

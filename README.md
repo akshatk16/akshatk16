@@ -1,7 +1,7 @@
 ### Hi there, I'm Akshat Kumar Agarwal 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=akshatk16.akshatk16)
 
-## I'm a Coder, Designer, Developer and a Student
+## 🎓 I'm a Coder, Designer, Developer and a Student
 
 - 📌 Living in <b>New Delhi</b>, <b>India</b>
 - 🎓 Electronics and Communications Engineering Student 
@@ -9,16 +9,17 @@
 - 💼 Graphic Designing Work Experience
 - 🥅 2020 Goals: Collaborate and contribute more to Open Source projects
 
-### Connect with me:
+### 🔗 Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="akshatk16.github.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Akshat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Akshat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Akshat | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 <!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -40,13 +41,16 @@
 
 <br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatk16&theme=vue-dark&hide=html,css)
+
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatk16&show_icons=true&count_private=true&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatk16&theme=vue-dark&hide=html,css)
+
 
 [website]: https://akshatk16.github.com
 [twitter]: https://twitter.com/akssshat9
 <!-- [instagram]: https://instagram.com/akssshat -->
 [linkedin]: https://www.linkedin.com/in/akshat-k
+[mail]: akshat.16@outlook.com

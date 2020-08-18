@@ -52,4 +52,4 @@
 [twitter]: https://twitter.com/akssshat9
 <!-- [instagram]: https://instagram.com/akssshat -->
 [linkedin]: https://www.linkedin.com/in/akshat-k
-[mail]: akshat.16@outlook.com
+[mail]: mailto:akshat.16@outlook.com

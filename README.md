@@ -1,4 +1,5 @@
 ### Hi there, I'm Akshat Kumar Agarwal 👋
+![](https://visitor-badge.laobi.icu/badge?page_id=akshatk16.akshatk16)
 
 ## I'm a Coder, Designer, Developer and a Student
 
@@ -42,8 +43,6 @@
 ---
 <img align="left" alt="Akshat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshatk16&show_icons=true&hide_border=true" />
 
----
-![](https://visitor-badge.laobi.icu/badge?page_id=akshatk16.akshatk16)
 
 [website]: https://akshatk16.github.com
 [twitter]: https://twitter.com/akssshat9

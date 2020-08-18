@@ -40,14 +40,13 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatk16&theme=vue-dark&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatk16&layout=compact)
 
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatk16&show_icons=true&count_private=true&theme=vue-dark)
-
-
 
 [website]: https://akshatk16.github.com
 [twitter]: https://twitter.com/akssshat9

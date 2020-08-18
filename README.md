@@ -42,7 +42,7 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatk16&show_icons=true&count_private=true&theme=vue-dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatk16&theme=vue-dark&hide=html,css&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatk16&show_icons=true&count_private=true&theme=vue-dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatk16&theme=vue-dark)
 
 [website]: https://akshatk16.github.com
 [twitter]: https://twitter.com/akssshat9

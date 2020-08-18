@@ -41,7 +41,7 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatk16&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatk16&layout=compact)
 
 ---
 

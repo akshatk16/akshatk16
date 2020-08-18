@@ -6,7 +6,7 @@
 
 <!-- ## 🎓 I'm a Coder, Designer, Developer and a Student -->
 
-- 📌 Living in <b>New Delhi</b>, <b>India</b>
+- 📌 <b>New Delhi</b>, <b>India</b>
 - 🎓 Electronics and Communications Engineering Student 
 - 🚀 Competitive Programming, Machine Learning, Full Stack Development 
 - 💼 Graphic Designing Work Experience

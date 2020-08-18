@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akshat Kumar Agarwal</h1>
 <h3 align="center">I'm a Coder, Designer, Developer and a Student</h3>
+<p align="center">
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=akshatk16.akshatk16)
 ![Twitter Follow](https://img.shields.io/twitter/follow/akssshat9?color=1DA1F2&style=social)
 
+</p>
 <!-- ## 🎓 I'm a Coder, Designer, Developer and a Student -->
 
 - 📌 Living in <b>New Delhi</b>, <b>India</b>

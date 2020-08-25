@@ -49,8 +49,6 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatk16&show_icons=true&count_private=true&theme=vue-dark)
-
 [website]: https://akshatk16.github.com
 [twitter]: https://twitter.com/akssshat9
 <!-- [instagram]: https://instagram.com/akssshat -->
